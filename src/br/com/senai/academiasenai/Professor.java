@@ -1,6 +1,6 @@
 package br.com.senai.academiasenai;
 
-public class Instrutor {
+public class Professor {
 	
 	private Integer id;
 	
