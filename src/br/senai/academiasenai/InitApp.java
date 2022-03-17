@@ -1,10 +1,13 @@
 package br.senai.academiasenai;
 
+import java.nio.file.ReadOnlyFileSystemException;
+
+
 public class InitApp {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-
+	
+		System.err.println();
 	}
 
 }
