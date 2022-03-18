@@ -20,6 +20,7 @@ public class Professor {
 
 	public void setNomeCompleto(String nomeCompleto) {
 		this.nomeCompleto = nomeCompleto;
+	
 	}
 	
 
